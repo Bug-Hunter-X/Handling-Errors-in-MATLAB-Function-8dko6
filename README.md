@@ -1,0 +1,1 @@
+This repository contains a MATLAB function (`myFunction.m`) that demonstrates a common error: improper handling of invalid inputs.  The function performs a simple calculation but throws an error if the input is negative.  The solution (`bugSolution.m`) demonstrates how to gracefully handle this error using a try-catch block.
